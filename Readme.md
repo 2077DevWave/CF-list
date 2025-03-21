@@ -27,6 +27,8 @@ This project is a web-based application that displays Codeforces contest problem
 2. Open `index.html` in a web browser.
 3. Enter your Codeforces handle to see your progress.
 
+OR you can deployed version here: [https://cf-list.sideco.ir/](https://cf-list.sideco.ir/)
+
 ## How It Works
 1. The webpage fetches a list of recent Codeforces contests.
 2. For each contest, it fetches the problem list.
